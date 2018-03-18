@@ -1,337 +1,298 @@
 #EXTM3U
 
-#EXTINF:-1,iLive|台視
+#EXTINF:-1,台視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/index.m3u8
-#EXTINF:-1,iLive|中視
+#EXTINF:-1,中視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/index.m3u8
-#EXTINF:-1,iLive|華視
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv041/litv-pc/index.m3u8#EXTINF:-1,iLive|民視台灣台
+#EXTINF:-1,華視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv041/litv-pc/index.m3u8
+#EXTINF:-1,民視台灣台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv001/litv-pc/index.m3u8
-#EXTINF:-1,iLive|民視HD
+#EXTINF:-1,民視HD
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv002/litv-pc/index.m3u8
-#EXTINF:-1,iLive|民視旅遊台
+#EXTINF:-1,民視旅遊台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv07/litv-pc/index.m3u8
-#EXTINF:-1,iLive|民視新聞台
+#EXTINF:-1,民視新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv13/litv-pc/index.m3u8
-#EXTINF:-1,iLive|民視綜藝台
+#EXTINF:-1,民視綜藝台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv004/litv-pc/index.m3u8
-#EXTINF:-1,iLive|民視影劇台
+#EXTINF:-1,民視影劇台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv09/litv-pc/index.m3u8
-#EXTINF:-1,iLive|華視新聞
+#EXTINF:-1,華視新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv052/litv-pc/index.m3u8
-#EXTINF:-1,iLive|台視財經
+#EXTINF:-1,台視財經
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv056/litv-pc/index.m3u8
-#EXTINF:-1,iLive|中華財經台
+#EXTINF:-1,中華財經台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv060/litv-pc/index.m3u8
-#EXTINF:-1,iLive|台視新聞台
+#EXTINF:-1,台視新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv051/litv-pc/index.m3u8
-#EXTINF:-1,iLive|台灣交通台
+#EXTINF:-1,台灣交通台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv003/litv-pc/index.m3u8
-#EXTINF:-1,iLive|東森亞洲幼幼台
+#EXTINF:-1,東森亞洲幼幼台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/index.m3u8
-#EXTINF:-1,iLive|東森亞洲新聞台
+#EXTINF:-1,東森亞洲新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv022/litv-pc/index.m3u8
-#EXTINF:-1,iLive|東森亞洲衛視
+#EXTINF:-1,東森亞洲衛視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-pc/index.m3u8
-#EXTINF:-1,iLive|東森財經新聞
+#EXTINF:-1,東森財經新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv019/litv-pc/index.m3u8
-#EXTINF:-1,iLive|東森新聞台
+#EXTINF:-1,東森新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv14/litv-pc/index.m3u8
-#EXTINF:-1,iLive|東森綜合
+#EXTINF:-1,東森綜合
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-pc/index.m3u8
-#EXTINF:-1,iLive|TVBS
+#EXTINF:-1,TVBS
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv073/litv-pc/index.m3u8
-#EXTINF:-1,iLive|TVBS 新聞台
+#EXTINF:-1,TVBS 新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/index.m3u8
-#EXTINF:-1,iLive|TVBS 精采台
+#EXTINF:-1,TVBS 精采台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv067/litv-pc/index.m3u8
-#EXTINF:-1,iLive|TVBS 經典台
+#EXTINF:-1,TVBS 經典台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv080/litv-pc/index.m3u8
-#EXTINF:-1,iLive|八大綜合
+#EXTINF:-1,八大綜合
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv039/litv-pc/index.m3u8
-#EXTINF:-1,iLive|大愛二台
+#EXTINF:-1,大愛二台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv106/litv-pc/index.m3u8
-#EXTINF:-1,iLive|大愛電視
+#EXTINF:-1,大愛電視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv007/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天資訊台
+#EXTINF:-1,靖天資訊台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv04/litv-pc/index.m3u8
-#EXTINF:-1,iLive|SMART知識頻道
+#EXTINF:-1,SMART知識頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv076/litv-pc/index.m3u8
-#EXTINF:-1,iLive|LiTV線上影視-卡通
+#EXTINF:-1,LiTV線上影視-卡通
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv100/litv-pc/index.m3u8
-#EXTINF:-1,iLive|LiTV線上影視-韓劇
+#EXTINF:-1,LiTV線上影視-韓劇
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv102/litv-pc/index.m3u8
-#EXTINF:-1,iLive|中天新聞台
+#EXTINF:-1,中天新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/index.m3u8
-#EXTINF:-1,iLive|中視新聞
+#EXTINF:-1,中視新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv074/litv-pc/index.m3u8
-#EXTINF:-1,iLive|公視二台
+#EXTINF:-1,公視二台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/index.m3u8
-#EXTINF:-1,iLive|公視戲劇
+#EXTINF:-1,公視戲劇
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv042/litv-pc/index.m3u8
-#EXTINF:-1,iLive|采昌影劇台
+#EXTINF:-1,采昌影劇台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv049/litv-pc/index.m3u8
-#EXTINF:-1,iLive|非凡新聞
+#EXTINF:-1,非凡新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8
-#EXTINF:-1,iLive|非凡商業
+#EXTINF:-1,非凡商業
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv02/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯足球台
+#EXTINF:-1,博斯足球台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn08/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯高球二台
+#EXTINF:-1,博斯高球二台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯高球臺
+#EXTINF:-1,博斯高球臺
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn05/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯無限
+#EXTINF:-1,博斯無限
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn10/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯運動網
+#EXTINF:-1,博斯運動網
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn07/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯網球臺
+#EXTINF:-1,博斯網球臺
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn09/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯魅力
+#EXTINF:-1,博斯魅力
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv101/litv-pc/index.m3u8
-#EXTINF:-1,iLive|博斯電玩
+#EXTINF:-1,博斯電玩
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn04/litv-pc/index.m3u8
-#EXTINF:-1,iLive|智林體育
+#EXTINF:-1,智林體育
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn13/litv-pc/index.m3u8
-#EXTINF:-1,iLive|GOLF 美國高爾夫頻道
+#EXTINF:-1,GOLF 美國高爾夫頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv075/litv-pc/index.m3u8
-#EXTINF:-1,iLive |林正英電影
-http://ws4.streamhls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-1516540856-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |林正英-殭屍道長
-http://ws4.streamhls.huya.com/huyalive/30765679-2497712118-10727591861632892928-2847687642-10057-A-1517276355-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |魔戒不間斷
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192728-10669526523721023488-2847687506-10057-A-1509357654-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |天龍八部
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-1514342536-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |周星馳電影
-http://rotation.vod.zlive.cc/channel/1260.m3u8
-#EXTINF:-1,iLive |周星馳電影2
-http://ws.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-1516540728-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |劉德華
-http://ws4.streamhls.huya.com/huyalive/994525224-2467341872-10597152648291418112-2789274550-10057-A-1512526192-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |周潤發電影
-http://ws4.streamhls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-1509184308-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |成龍電影
-http://rotation.vod.zlive.cc/channel/1259.m3u8
-#EXTINF:-1,iLive |成龍電影2
-http://ws4.streamhls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-1513132292-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |賭博電影
-http://ws4.streamhls.huya.com/huyalive/30765679-2479074344-10647543231832653824-2789253870-10057-A-1512526397-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |新三國
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-1512375468-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |那些年我們追過的港片女神
-http://ws.streamhls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-1512526507-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |新水滸傳
-http://ws.streamhls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-1512526581-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |喜劇小品-開心麻花
-http://ws4.streamhls.huya.com/huyalive/30765679-2523427604-10838039033003638784-2847699098-10057-A-1509359537-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |喜劇相聲-德雲社
-http://ws.streamhls.huya.com/huyalive/30765679-2523417616-10837996134870286336-2789253868-10057-A-1509352551-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |史詩級戰爭片
-http://ws.streamhls.huya.com/huyalive/30765679-2504741986-10757784914788089856-2789274580-10057-A-1509524823-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |黑社會電影
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-1512526039-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |齊天大聖孫悟空
-http://ws4.streamhls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-1512526217-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |神鵰俠侶-古天樂
-http://ws4.streamhls.huya.com/huyalive/30765679-2475713428-10633108207528050688-2847687530-10057-A-1510032069-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |倚天屠龍記-黎姿
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-1511924585-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |洪金寶電影
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192850-10669527047707033600-2789274558-10057-A-1511401176-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |許氏兄弟電影
-http://ws4.streamhls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2847699096-10057-A-1511453295-1_1200/playlist.m3u8
-#EXTINF:-1,iLive |魔術大揭密
+#EXTINF:-1,魔術大揭密
 http://ws4.streamhls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-1509528112-1_1200/playlist.m3u8
-#EXTINF:-1,iLive|靖天日本台
+#EXTINF:-1,靖天日本台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv047/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天卡通台
+#EXTINF:-1,靖天卡通台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv044/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天育樂台
+#EXTINF:-1,靖天育樂台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv062/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天映畫
+#EXTINF:-1,靖天映畫
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv055/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天資訊台
+#EXTINF:-1,靖天資訊台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv065/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天電影台
+#EXTINF:-1,靖天電影台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv061/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天綜合台
+#EXTINF:-1,靖天綜合台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv046/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖天戲劇台
+#EXTINF:-1,靖天戲劇台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv058/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖洋卡通
+#EXTINF:-1,靖洋卡通
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv057/litv-pc/index.m3u8
-#EXTINF:-1,iLive|靖洋戲劇台
+#EXTINF:-1,靖洋戲劇台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv045/litv-pc/index.m3u8
-#EXTINF:-1,iLive|寰宇新聞二台
+#EXTINF:-1,寰宇新聞二台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/index.m3u8
-#EXTINF:-1,iLive|寰宇新聞台
+#EXTINF:-1,寰宇新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/index.m3u8
-#EXTINF:-1,iLive|龍華日韓台
+#EXTINF:-1,龍華日韓台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn11/litv-pc/index.m3u8
-#EXTINF:-1,iLive|龍華卡通台
+#EXTINF:-1,龍華卡通台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn01/litv-pc/index.m3u8
-#EXTINF:-1,iLive|龍華偶像台
+#EXTINF:-1,龍華偶像台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn12/litv-pc/index.m3u8
-#EXTINF:-1,iLive|龍華戲劇台
+#EXTINF:-1,龍華戲劇台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn18/litv-pc/index.m3u8
-#EXTINF:-1,iLive|龍華電影台
+#EXTINF:-1,龍華電影台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn03/litv-pc/index.m3u8
-#EXTINF:-1,iLive|韓國娛樂台 KMTV
+#EXTINF:-1,韓國娛樂台 KMTV
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv016/litv-pc/index.m3u8
-#EXTINF:-1,iLive|BBC World News
+#EXTINF:-1,BBC World News
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv088/litv-pc/index.m3u8
-#EXTINF:-1,iLive|CI 罪案偵查頻道
+#EXTINF:-1,CI 罪案偵查頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv027/litv-pc/index.m3u8
-#EXTINF:-1,iLive|CLASSICA 古典樂
+#EXTINF:-1,CLASSICA 古典樂
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv059/litv-pc/index.m3u8
-#EXTINF:-1,iLive|CNBC Asia 財經台
+#EXTINF:-1,CNBC Asia 財經台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv030/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Comedy Central 爆笑頻道
+#EXTINF:-1,Comedy Central 爆笑頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/index.m3u8
-#EXTINF:-1,iLive|iTV
+#EXTINF:-1,iTV
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv036/litv-pc/index.m3u8
-#EXTINF:-1,iLive|BRAVO 菁采台
+#EXTINF:-1,BRAVO 菁采台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv064/litv-pc/index.m3u8
-#EXTINF:-1,iLive|BabyFirst
+#EXTINF:-1,BabyFirst
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn02/litv-pc/index.m3u8
-#EXTINF:-1,iLive |緯來日本HD
+#EXTINF:-1,緯來日本HD
 http://211.72.174.95:8119/0.ts
-#EXTINF:-1,iLive |CinemaWorld
+#EXTINF:-1,CinemaWorld
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv069/litv-pc/index.m3u8
-#EXTINF:-1,iLive |DW
+#EXTINF:-1,DW
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv071/litv-pc/index.m3u8
-#EXTINF:-1,iLive|E Entertainment
+#EXTINF:-1,E Entertainment
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Eleven sports1
+#EXTINF:-1,Eleven sports1
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv098/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Eleven sports2
+#EXTINF:-1,Eleven sports2
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv099/litv-pc/index.m3u8
-#EXTINF:-1,iLive|ELTV 英語學習台
+#EXTINF:-1,ELTV 英語學習台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn20/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Fashion one
+#EXTINF:-1,Fashion one
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv015/litv-pc/index.m3u8
-#EXTINF:-1,iLive|fyi 生活頻道
+#EXTINF:-1,fyi 生活頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv031/litv-pc/index.m3u8
-#EXTINF:-1,iLive|H2頻道
+#EXTINF:-1,H2頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv028/litv-pc/index.m3u8
-#EXTINF:-1,iLive|HakkaTV
+#EXTINF:-1,HakkaTV
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv043/litv-pc/index.m3u8
-#EXTINF:-1,iLive|History 歷史頻道
+#EXTINF:-1,History 歷史頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/index.m3u8
-#EXTINF:-1,iLive|iConceits
+#EXTINF:-1,iConceits
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv037/litv-pc/index.m3u8
-#EXTINF:-1,iLive|i-Fun動漫台
+#EXTINF:-1,i-Fun動漫台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv15/litv-pc/index.m3u8
-#EXTINF:-1,iLive|KLT 靖天國際台
+#EXTINF:-1,KLT 靖天國際台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv063/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Lifetime 娛樂頻道
+#EXTINF:-1,Lifetime 娛樂頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv029/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Mezzo Live HD
+#EXTINF:-1,Mezzo Live HD
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv083/litv-pc/index.m3u8
-#EXTINF:-1,iLive|MOMO親子台
+#EXTINF:-1,MOMO親子台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv111/litv-pc/index.m3u8
-#EXTINF:-1,iLive|MTV Live HD 音樂頻道
+#EXTINF:-1,MTV Live HD 音樂頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Nice TV
+#EXTINF:-1,Nice TV
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv054/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Nick Jr. 兒童頻道
+#EXTINF:-1,Nick Jr. 兒童頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv032/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Outdoor Channel
+#EXTINF:-1,Outdoor Channel
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv078/litv-pc/index.m3u8
-#EXTINF:-1,iLive|TRACE Sport Stars
+#EXTINF:-1,TRACE Sport Stars
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv077/litv-pc/index.m3u8
-#EXTINF:-1,iLive|TRACE Urban
+#EXTINF:-1,TRACE Urban
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv082/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Travel Channel
+#EXTINF:-1,Travel Channel
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv079/litv-pc/index.m3u8
-#EXTINF:-1,iLive|VOA 美國之音
+#EXTINF:-1,VOA 美國之音
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv03/litv-pc/index.m3u8
-#EXTINF:-1,iLive|VTV4
+#EXTINF:-1,VTV4
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv108/litv-pc/index.m3u8
-#EXTINF:-1,iLive|Z Living 健康頻道
+#EXTINF:-1,Z Living 健康頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
-#EXTINF:-1,iLive|人間衛視
+#EXTINF:-1,人間衛視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv008/litv-pc/index.m3u8
-#EXTINF:-1,iLive|內政頻道
+#EXTINF:-1,內政頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv090/litv-pc/index.m3u8
-#EXTINF:-1,iLive|天映經典頻道
+#EXTINF:-1,天映經典頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/index.m3u8
-#EXTINF:-1,iLive|日舞電影台AMC
+#EXTINF:-1,日舞電影台AMC
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8
-#EXTINF:-1,iLive|半島國際新聞台
+#EXTINF:-1,半島國際新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv10/litv-pc/index.m3u8
-#EXTINF:-1,iLive|司法及法制頻道
+#EXTINF:-1,司法及法制頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv096/litv-pc/index.m3u8
-#EXTINF:-1,iLive|外交及國防頻道
+#EXTINF:-1,外交及國防頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv091/litv-pc/index.m3u8
-#EXTINF:-1,iLive|好消息
+#EXTINF:-1,好消息
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv16/litv-pc/index.m3u8
-#EXTINF:-1,iLive|好消息2台
+#EXTINF:-1,好消息2台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv17/litv-pc/index.m3u8
-#EXTINF:-1,iLive|亞洲旅遊台
+#EXTINF:-1,亞洲旅遊台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn17/litv-pc/index.m3u8
-#EXTINF:-1,iLive|社會福利及衛生環境頻道
+#EXTINF:-1,社會福利及衛生環境頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv097/litv-pc/index.m3u8
-#EXTINF:-1,iLive|空中英語教室HD頻道
+#EXTINF:-1,空中英語教室HD頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv103/litv-pc/index.m3u8
-#EXTINF:-1,iLive|空中英語課堂
+#EXTINF:-1,空中英語課堂
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv012/litv-pc/index.m3u8
-#EXTINF:-1,iLive|香蕉直擊台
+#EXTINF:-1,香蕉直擊台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv038/litv-pc/index.m3u8
-#EXTINF:-1,iLive|時尚運動X
+#EXTINF:-1,時尚運動X
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv014/litv-pc/index.m3u8
-#EXTINF:-1,iLive|財政頻道
+#EXTINF:-1,財政頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv093/litv-pc/index.m3u8
-#EXTINF:-1,iLive|院會頻道
+#EXTINF:-1,院會頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv089/litv-pc/index.m3u8
-#EXTINF:-1,iLive|國會頻道1
+#EXTINF:-1,國會頻道1
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv084/litv-pc/index.m3u8
-#EXTINF:-1,iLive|國會頻道2
+#EXTINF:-1,國會頻道2
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv085/litv-pc/index.m3u8
-#EXTINF:-1,iLive|教育及文化頻道
+#EXTINF:-1,教育及文化頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv094/litv-pc/index.m3u8
-#EXTINF:-1,iLive|華研音樂台
+#EXTINF:-1,華研音樂台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv11/litv-pc/index.m3u8
-#EXTINF:-1,iLive|華研娛樂台
+#EXTINF:-1,華研娛樂台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv12/litv-pc/index.m3u8
-#EXTINF:-1,iLive|視納華仁紀實頻道
+#EXTINF:-1,視納華仁紀實頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/index.m3u8
-#EXTINF:-1,iLive|愛爾達娛樂台
+#EXTINF:-1,愛爾達娛樂台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv070/litv-pc/index.m3u8
-#EXTINF:-1,iLive|新塘人亞太台
+#EXTINF:-1,新塘人亞太台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv050/litv-pc/index.m3u8
-#EXTINF:-1,iLive|經濟頻道
+#EXTINF:-1,經濟頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv092/litv-pc/index.m3u8
-#EXTINF:-1,iLive|達文西頻道
+#EXTINF:-1,達文西頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv018/litv-pc/index.m3u8
-#EXTINF:-1,iLive|鳳梨直擊台
+#EXTINF:-1,鳳梨直擊台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv035/litv-pc/index.m3u8
-#EXTINF:-1,iLive|影迷數位電影台
+#EXTINF:-1,影迷數位電影台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8
-#EXTINF:-1,iLive|交通頻道
+#EXTINF:-1,交通頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv095/litv-pc/index.m3u8
-#EXTINF:-1,iLive |奇妙電視
+#EXTINF:-1,奇妙電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1,iLive |now香港
+#EXTINF:-1,now香港
 http://live.italkdd.com/ts027/channel_033.m3u8
-#EXTINF:-1,iLive |now華劇台
+#EXTINF:-1,now華劇台
 http://live.italkdd.com/ts027/channel_034.m3u8
-#EXTINF:-1,iLive |TVB翡翠台
+#EXTINF:-1,TVB翡翠台
 http://acm.gg/j.m3u8
-#EXTINF:-1,iLive |F1直播
+#EXTINF:-1,F1直播
 http://liveal.quanmin.tv/live/2142818090.flv
-#EXTINF:-1,iLive |環球東方 C&E
+#EXTINF:-1,環球東方 C&E
 http://live.italkdd.com/ts027/channel_035.m3u8
-#EXTINF:-1,iLive |Asia Travel
+#EXTINF:-1,Asia Travel
 http://live.italkdd.com/ts027/channel_036.m3u8
-#EXTINF:-1,iLive |碧海藍天
+#EXTINF:-1,碧海藍天
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-pc/index.m3u8
-#EXTINF:-1,iLive |九月圍城
+#EXTINF:-1,九月圍城
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv048/litv-pc/index.m3u8
-#EXTINF:-1,iLive |動畫卡通
+#EXTINF:-1,動畫卡通
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv105/litv-pc/index.m3u8
-#EXTINF:-1,iLive |FashionOne
+#EXTINF:-1,FashionOne
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn19/litv-pc/index.m3u8
-#EXTINF:-1,iLive |Medici-arts
+#EXTINF:-1,Medici-arts
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn16/litv-pc/index.m3u8
+#EXTINF:-1,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1,BBC News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,Rai 2 sd
+http://185.71.66.54:15004/live/Gaetano/12345/1193.ts

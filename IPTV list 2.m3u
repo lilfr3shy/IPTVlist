@@ -1,681 +1,338 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset136 PingFangTC-Regular;\f2\fnil\fcharset0 Menlo-Regular;
-}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red38\green38\blue38;\red246\green246\blue246;
-}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c20000\c20000\c20000;\cssrgb\c97255\c97255\c97255;
-}
-\paperw11900\paperh16840\margl1440\margr1440\vieww12880\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-#EXTM3U\
-\pard\pardeftab720\partightenfactor0
-\cf0 #EXTINF:-1,iLive|
-\f1 \'a5\'78\'b5\'f8\
-\pard\pardeftab720\partightenfactor0
-
-\f0 \cf0 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/index.m3u8\
-\pard\pardeftab720\partightenfactor0
-\cf0 #EXTINF:-1,iLive|
-\f1 \'a4\'a4\'b5\'f8\
-
-\f0 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b5\'d8\'b5\'f8\
-
-\f0 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv041/litv-pc/index.m3u8#EXTINF:-1,iLive|
-\f1 \'a5\'c1\'b5\'f8\'a5\'78\'c6\'57\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv001/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'c1\'b5\'f8HD\
-\pard\pardeftab720\partightenfactor0
-
-\f0 \cf0 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv002/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'c1\'b5\'f8\'ae\'c8\'b9\'43\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv07/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'c1\'b5\'f8\'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv13/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'c1\'b5\'f8\'ba\'ee\'c3\'c0\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv004/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'c1\'b5\'f8\'bc\'76\'bc\'40\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv09/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b5\'d8\'b5\'f8\'b7\'73\'bb\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv052/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'78\'b5\'f8\'b0\'5d\'b8\'67
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv056/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'a4\'b5\'d8\'b0\'5d\'b8\'67\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv060/litv-pc/index.m3u8\
-\pard\pardeftab720\partightenfactor0
-\cf0 #EXTINF:-1,iLive|
-\f1 \'a5\'78\'b5\'f8\'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv051/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'78\'c6\'57\'a5\'e6\'b3\'71\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv003/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'46\'b4\'cb\'a8\'c8\'ac\'77\'a5\'ae\'a5\'ae\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'46\'b4\'cb\'a8\'c8\'ac\'77\'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv022/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'46\'b4\'cb\'a8\'c8\'ac\'77\'bd\'c3\'b5\'f8
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'46\'b4\'cb\'b0\'5d\'b8\'67\'b7\'73\'bb\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv019/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'46\'b4\'cb\'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv14/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'46\'b4\'cb\'ba\'ee\'a6\'58
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|TVBS\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv073/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|TVBS 
-\f1 \'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|TVBS 
-\f1 \'ba\'eb\'aa\'f6\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv067/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|TVBS 
-\f1 \'b8\'67\'a8\'e5\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv080/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'4b\'a4\'6a\'ba\'ee\'a6\'58
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv039/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'6a\'b7\'52\'a4\'47\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv106/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'6a\'b7\'52\'b9\'71\'b5\'f8
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv007/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'b8\'ea\'b0\'54\'a5\'78\
+#EXTM3U
+#EXTINF:-1,iLive|台視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/index.m3u8
+#EXTINF:-1,iLive|中視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/index.m3u8
+#EXTINF:-1,iLive|華視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv041/litv-pc/index.m3u8#EXTINF:-1,iLive|民視台灣台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv001/litv-pc/index.m3u8
+#EXTINF:-1,iLive|民視HD
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv002/litv-pc/index.m3u8
+#EXTINF:-1,iLive|民視旅遊台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv07/litv-pc/index.m3u8
+#EXTINF:-1,iLive|民視新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv13/litv-pc/index.m3u8
+#EXTINF:-1,iLive|民視綜藝台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv004/litv-pc/index.m3u8
+#EXTINF:-1,iLive|民視影劇台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv09/litv-pc/index.m3u8
+#EXTINF:-1,iLive|華視新聞
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv052/litv-pc/index.m3u8
+#EXTINF:-1,iLive|台視財經
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv056/litv-pc/index.m3u8
+#EXTINF:-1,iLive|中華財經台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv060/litv-pc/index.m3u8
+#EXTINF:-1,iLive|台視新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv051/litv-pc/index.m3u8
+#EXTINF:-1,iLive|台灣交通台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv003/litv-pc/index.m3u8
+#EXTINF:-1,iLive|東森亞洲幼幼台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/index.m3u8
+#EXTINF:-1,iLive|東森亞洲新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv022/litv-pc/index.m3u8
+#EXTINF:-1,iLive|東森亞洲衛視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-pc/index.m3u8
+#EXTINF:-1,iLive|東森財經新聞
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv019/litv-pc/index.m3u8
+#EXTINF:-1,iLive|東森新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv14/litv-pc/index.m3u8
+#EXTINF:-1,iLive|東森綜合
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-pc/index.m3u8
+#EXTINF:-1,iLive|TVBS
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv073/litv-pc/index.m3u8
+#EXTINF:-1,iLive|TVBS 新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/index.m3u8
+#EXTINF:-1,iLive|TVBS 精采台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv067/litv-pc/index.m3u8
+#EXTINF:-1,iLive|TVBS 經典台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv080/litv-pc/index.m3u8
+#EXTINF:-1,iLive|八大綜合
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv039/litv-pc/index.m3u8
+#EXTINF:-1,iLive|大愛二台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv106/litv-pc/index.m3u8
+#EXTINF:-1,iLive|大愛電視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv007/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天資訊台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv04/litv-pc/index.m3u8
-\f0 \
-#EXTINF:-1,iLive|
-\f1 SMART\'aa\'be\'c3\'d1\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv076/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 LiTV\'bd\'75\'a4\'57\'bc\'76\'b5\'f8-\'a5\'64\'b3\'71
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv100/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 LiTV\'bd\'75\'a4\'57\'bc\'76\'b5\'f8-\'c1\'fa\'bc\'40\
-\pard\pardeftab720\partightenfactor0
-
-\f0 \cf0 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv102/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'a4\'a4\'d1\'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'a4\'b5\'f8\'b7\'73\'bb\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv074/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'bd\'b5\'f8\'a4\'47\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'bd\'b5\'f8\'c0\'b8\'bc\'40
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv042/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'f6\'a9\'f7\'bc\'76\'bc\'40\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv049/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'ab\'44\'a4\'5a\'b7\'73\'bb\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8\
-\pard\pardeftab720\partightenfactor0
-\cf0 #EXTINF:-1,iLive|
-\f1 \'ab\'44\'a4\'5a\'b0\'d3\'b7\'7e
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv02/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'a8\'ac\'b2\'79\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn08/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'b0\'aa\'b2\'79\'a4\'47\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'b0\'aa\'b2\'79\'bb\'4f
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn05/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'b5\'4c\'ad\'ad
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn10/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'b9\'42\'b0\'ca\'ba\'f4
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn07/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'ba\'f4\'b2\'79\'bb\'4f
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn09/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'be\'79\'a4\'4f
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv101/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b3\'d5\'b4\'b5\'b9\'71\'aa\'b1\
-\pard\pardeftab720\partightenfactor0
-
-\f0 \cf0 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn04/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b4\'bc\'aa\'4c\'c5\'e9\'a8\'7c
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn13/litv-pc/index.m3u8\
-\pard\pardeftab720\partightenfactor0
-\cf0 #EXTINF:-1,iLive|
-\f1 GOLF \'ac\'fc\'b0\'ea\'b0\'aa\'ba\'b8\'a4\'d2\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv075/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'aa\'4c\'a5\'bf\'ad\'5e\'b9\'71\'bc\'76
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-1516540856-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'aa\'4c\'a5\'bf\'ad\'5e
-\f0 -
-\f1 \'ed\'4c\'ab\'cd\'b9\'44\'aa\'f8
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2497712118-10727591861632892928-2847687642-10057-A-1517276355-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'c5\'5d\'a7\'d9\'a4\'a3\'b6\'a1\'c2\'5f
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192728-10669526523721023488-2847687506-10057-A-1509357654-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a4\'d1\'c0\'73\'a4\'4b\'b3\'a1
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-1514342536-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a9\'50\'ac\'50\'b9\'a3\'b9\'71\'bc\'76
-\f0 \
-http://rotation.vod.zlive.cc/channel/1260.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a9\'50\'ac\'50\'b9\'a3\'b9\'71\'bc\'76
-\f0 2\
-http://ws.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-1516540728-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'bc\'42\'bc\'77\'b5\'d8
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/994525224-2467341872-10597152648291418112-2789274550-10057-A-1512526192-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a9\'50\'bc\'ed\'b5\'6f\'b9\'71\'bc\'76
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-1509184308-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a6\'a8\'c0\'73\'b9\'71\'bc\'76
-\f0 \
-http://rotation.vod.zlive.cc/channel/1259.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a6\'a8\'c0\'73\'b9\'71\'bc\'76
-\f0 2\
-http://ws4.streamhls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-1513132292-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'bd\'e4\'b3\'d5\'b9\'71\'bc\'76
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2479074344-10647543231832653824-2789253870-10057-A-1512526397-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'b7\'73\'a4\'54\'b0\'ea
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-1512375468-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a8\'ba\'a8\'c7\'a6\'7e\'a7\'da\'ad\'cc\'b0\'6c\'b9\'4c\'aa\'ba\'b4\'e4\'a4\'f9\'a4\'6b\'af\'ab
-\f0 \
-http://ws.streamhls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-1512526507-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'b7\'73\'a4\'f4\'e2\'71\'b6\'c7
-\f0 \
-http://ws.streamhls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-1512526581-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'b3\'df\'bc\'40\'a4\'70\'ab\'7e
-\f0 -
-\f1 \'b6\'7d\'a4\'df\'b3\'c2\'aa\'e1
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2523427604-10838039033003638784-2847699098-10057-A-1509359537-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'b3\'df\'bc\'40\'ac\'db\'c1\'6e
-\f0 -
-\f1 \'bc\'77\'b6\'b3\'aa\'c0
-\f0 \
-http://ws.streamhls.huya.com/huyalive/30765679-2523417616-10837996134870286336-2789253868-10057-A-1509352551-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a5\'76\'b8\'d6\'af\'c5\'be\'d4\'aa\'a7\'a4\'f9
-\f0 \
-http://ws.streamhls.huya.com/huyalive/30765679-2504741986-10757784914788089856-2789274580-10057-A-1509524823-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'b6\'c2\'aa\'c0\'b7\'7c\'b9\'71\'bc\'76
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-1512526039-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'bb\'f4\'a4\'d1\'a4\'6a\'b8\'74\'ae\'5d\'ae\'a9\'aa\'c5
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-1512526217-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'af\'ab\'f3\'e7\'ab\'4c\'ab\'51
-\f0 -
-\f1 \'a5\'6a\'a4\'d1\'bc\'d6
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2475713428-10633108207528050688-2847687530-10057-A-1510032069-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'ad\'ca\'a4\'d1\'b1\'4f\'c0\'73\'b0\'4f
-\f0 -
-\f1 \'be\'a4\'ab\'ba
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-1511924585-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'ac\'78\'aa\'f7\'c4\'5f\'b9\'71\'bc\'76
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192850-10669527047707033600-2789274558-10057-A-1511401176-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'b3\'5c\'a4\'f3\'a5\'53\'a7\'cc\'b9\'71\'bc\'76
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2847699096-10057-A-1511453295-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'c5\'5d\'b3\'4e\'a4\'6a\'b4\'a6\'b1\'4b
-\f0 \
-http://ws4.streamhls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-1509528112-1_1200/playlist.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'a4\'e9\'a5\'bb\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv047/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'a5\'64\'b3\'71\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv044/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'a8\'7c\'bc\'d6\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv062/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'ac\'4d\'b5\'65
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv055/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'b8\'ea\'b0\'54\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv065/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'b9\'71\'bc\'76\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv061/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'ba\'ee\'a6\'58\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv046/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'a4\'d1\'c0\'b8\'bc\'40\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv058/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'ac\'76\'a5\'64\'b3\'71
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv057/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'74\'ac\'76\'c0\'b8\'bc\'40\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv045/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'be\'c8\'a6\'74\'b7\'73\'bb\'44\'a4\'47\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'be\'c8\'a6\'74\'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'c0\'73\'b5\'d8\'a4\'e9\'c1\'fa\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn11/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'c0\'73\'b5\'d8\'a5\'64\'b3\'71\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn01/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'c0\'73\'b5\'d8\'b0\'b8\'b9\'b3\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn12/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'c0\'73\'b5\'d8\'c0\'b8\'bc\'40\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn18/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'c0\'73\'b5\'d8\'b9\'71\'bc\'76\'a5\'78\
+#EXTINF:-1,iLive|SMART知識頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv076/litv-pc/index.m3u8
+#EXTINF:-1,iLive|LiTV線上影視-卡通
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv100/litv-pc/index.m3u8
+#EXTINF:-1,iLive|LiTV線上影視-韓劇
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv102/litv-pc/index.m3u8
+#EXTINF:-1,iLive|中天新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/index.m3u8
+#EXTINF:-1,iLive|中視新聞
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv074/litv-pc/index.m3u8
+#EXTINF:-1,iLive|公視二台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/index.m3u8
+#EXTINF:-1,iLive|公視戲劇
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv042/litv-pc/index.m3u8
+#EXTINF:-1,iLive|采昌影劇台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv049/litv-pc/index.m3u8
+#EXTINF:-1,iLive|非凡新聞
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8
+#EXTINF:-1,iLive|非凡商業
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv02/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯足球台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn08/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯高球二台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯高球臺
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn05/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯無限
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn10/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯運動網
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn07/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯網球臺
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn09/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯魅力
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv101/litv-pc/index.m3u8
+#EXTINF:-1,iLive|博斯電玩
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn04/litv-pc/index.m3u8
+#EXTINF:-1,iLive|智林體育
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn13/litv-pc/index.m3u8
+#EXTINF:-1,iLive|GOLF 美國高爾夫頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv075/litv-pc/index.m3u8
+#EXTINF:-1,iLive |林正英電影
+http://ws4.streamhls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-1516540856-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |林正英-殭屍道長
+http://ws4.streamhls.huya.com/huyalive/30765679-2497712118-10727591861632892928-2847687642-10057-A-1517276355-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |魔戒不間斷
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192728-10669526523721023488-2847687506-10057-A-1509357654-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |天龍八部
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-1514342536-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |周星馳電影
+http://rotation.vod.zlive.cc/channel/1260.m3u8
+#EXTINF:-1,iLive |周星馳電影2
+http://ws.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-1516540728-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |劉德華
+http://ws4.streamhls.huya.com/huyalive/994525224-2467341872-10597152648291418112-2789274550-10057-A-1512526192-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |周潤發電影
+http://ws4.streamhls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-1509184308-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |成龍電影
+http://rotation.vod.zlive.cc/channel/1259.m3u8
+#EXTINF:-1,iLive |成龍電影2
+http://ws4.streamhls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-1513132292-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |賭博電影
+http://ws4.streamhls.huya.com/huyalive/30765679-2479074344-10647543231832653824-2789253870-10057-A-1512526397-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |新三國
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-1512375468-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |那些年我們追過的港片女神
+http://ws.streamhls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-1512526507-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |新水滸傳
+http://ws.streamhls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-1512526581-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |喜劇小品-開心麻花
+http://ws4.streamhls.huya.com/huyalive/30765679-2523427604-10838039033003638784-2847699098-10057-A-1509359537-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |喜劇相聲-德雲社
+http://ws.streamhls.huya.com/huyalive/30765679-2523417616-10837996134870286336-2789253868-10057-A-1509352551-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |史詩級戰爭片
+http://ws.streamhls.huya.com/huyalive/30765679-2504741986-10757784914788089856-2789274580-10057-A-1509524823-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |黑社會電影
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-1512526039-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |齊天大聖孫悟空
+http://ws4.streamhls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-1512526217-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |神鵰俠侶-古天樂
+http://ws4.streamhls.huya.com/huyalive/30765679-2475713428-10633108207528050688-2847687530-10057-A-1510032069-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |倚天屠龍記-黎姿
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-1511924585-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |洪金寶電影
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192850-10669527047707033600-2789274558-10057-A-1511401176-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |許氏兄弟電影
+http://ws4.streamhls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2847699096-10057-A-1511453295-1_1200/playlist.m3u8
+#EXTINF:-1,iLive |魔術大揭密
+http://ws4.streamhls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-1509528112-1_1200/playlist.m3u8
+#EXTINF:-1,iLive|靖天日本台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv047/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天卡通台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv044/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天育樂台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv062/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天映畫
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv055/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天資訊台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv065/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天電影台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv061/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天綜合台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv046/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖天戲劇台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv058/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖洋卡通
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv057/litv-pc/index.m3u8
+#EXTINF:-1,iLive|靖洋戲劇台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv045/litv-pc/index.m3u8
+#EXTINF:-1,iLive|寰宇新聞二台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/index.m3u8
+#EXTINF:-1,iLive|寰宇新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/index.m3u8
+#EXTINF:-1,iLive|龍華日韓台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn11/litv-pc/index.m3u8
+#EXTINF:-1,iLive|龍華卡通台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn01/litv-pc/index.m3u8
+#EXTINF:-1,iLive|龍華偶像台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn12/litv-pc/index.m3u8
+#EXTINF:-1,iLive|龍華戲劇台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn18/litv-pc/index.m3u8
+#EXTINF:-1,iLive|龍華電影台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn03/litv-pc/index.m3u8
-\f0 \
-#EXTINF:-1,iLive|
-\f1 \'c1\'fa\'b0\'ea\'ae\'54\'bc\'d6\'a5\'78
-\f0  KMTV\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv016/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|BBC World News\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv088/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|CI 
-\f1 \'b8\'6f\'ae\'d7\'b0\'bb\'ac\'64\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv027/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|CLASSICA 
-\f1 \'a5\'6a\'a8\'e5\'bc\'d6
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv059/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|CNBC Asia 
-\f1 \'b0\'5d\'b8\'67\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv030/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Comedy Central 
-\f1 \'c3\'7a\'af\'ba\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|iTV\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv036/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 BRAVO \'b5\'d7\'aa\'f6\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv064/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 BabyFirst
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn02/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'bd\'6e\'a8\'d3\'a4\'e9\'a5\'bbHD
-\f0 \
-http://211.72.174.95:8119/0.ts\
-#EXTINF:-1,iLive |
-\f1 CinemaWorld
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv069/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 DW
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv071/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|E Entertainment\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Eleven sports1\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv098/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Eleven sports2\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv099/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|ELTV 
-\f1 \'ad\'5e\'bb\'79\'be\'c7\'b2\'df\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn20/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Fashion one\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv015/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|fyi 
-\f1 \'a5\'cd\'ac\'a1\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv031/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|H2
-\f1 \'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv028/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|HakkaTV\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv043/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|History 
-\f1 \'be\'fa\'a5\'76\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|iConceits\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv037/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|i-Fun
-\f1 \'b0\'ca\'ba\'a9\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv15/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|KLT 
-\f1 \'b9\'74\'a4\'d1\'b0\'ea\'bb\'da\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv063/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Lifetime 
-\f1 \'ae\'54\'bc\'d6\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv029/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Mezzo Live HD\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv083/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|MOMO
-\f1 \'bf\'cb\'a4\'6c\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv111/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|MTV Live HD 
-\f1 \'ad\'b5\'bc\'d6\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Nice TV\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv054/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Nick Jr. 
-\f1 \'a8\'e0\'b5\'a3\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv032/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Outdoor Channel\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv078/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|TRACE Sport Stars\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv077/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|TRACE Urban\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv082/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Travel Channel\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv079/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|VOA 
-\f1 \'ac\'fc\'b0\'ea\'a4\'a7\'ad\'b5
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv03/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|VTV4\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv108/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|Z Living 
-\f1 \'b0\'b7\'b1\'64\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'48\'b6\'a1\'bd\'c3\'b5\'f8
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv008/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'ba\'ac\'46\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv090/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'d1\'ac\'4d\'b8\'67\'a8\'e5\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a4\'e9\'bb\'52\'b9\'71\'bc\'76\'a5\'78
-\f0 AMC\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'62\'ae\'71\'b0\'ea\'bb\'da\'b7\'73\'bb\'44\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv10/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'71\'aa\'6b\'a4\'ce\'aa\'6b\'a8\'ee\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv096/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'7e\'a5\'e6\'a4\'ce\'b0\'ea\'a8\'be\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv091/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a6\'6e\'ae\'f8\'ae\'a7
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv16/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a6\'6e\'ae\'f8\'ae\'a7
-\f0 2
-\f1 \'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv17/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a8\'c8\'ac\'77\'ae\'c8\'b9\'43\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn17/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'c0\'b7\'7c\'ba\'d6\'a7\'51\'a4\'ce\'bd\'c3\'a5\'cd\'c0\'f4\'b9\'d2\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv097/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'c5\'a4\'a4\'ad\'5e\'bb\'79\'b1\'d0\'ab\'c7
-\f0 HD
-\f1 \'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv103/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'aa\'c5\'a4\'a4\'ad\'5e\'bb\'79\'bd\'d2\'b0\'f3
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv012/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'ad\'bb\'bf\'bc\'aa\'bd\'c0\'bb\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv038/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'ae\'c9\'a9\'7c\'b9\'42\'b0\'ca
-\f0 X\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv014/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b0\'5d\'ac\'46\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv093/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b0\'7c\'b7\'7c\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv089/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b0\'ea\'b7\'7c\'c0\'57\'b9\'44
-\f0 1\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv084/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b0\'ea\'b7\'7c\'c0\'57\'b9\'44
-\f0 2\
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv085/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b1\'d0\'a8\'7c\'a4\'ce\'a4\'e5\'a4\'c6\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv094/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b5\'d8\'ac\'e3\'ad\'b5\'bc\'d6\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv11/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b5\'d8\'ac\'e3\'ae\'54\'bc\'d6\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv12/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b5\'f8\'af\'c7\'b5\'d8\'a4\'af\'ac\'f6\'b9\'ea\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b7\'52\'ba\'b8\'b9\'46\'ae\'54\'bc\'d6\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv070/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b7\'73\'b6\'ed\'a4\'48\'a8\'c8\'a4\'d3\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv050/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b8\'67\'c0\'d9\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv092/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'b9\'46\'a4\'e5\'a6\'e8\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv018/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'bb\'f1\'b1\'f9\'aa\'bd\'c0\'bb\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv035/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'bc\'76\'b0\'67\'bc\'c6\'a6\'ec\'b9\'71\'bc\'76\'a5\'78
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8\
-#EXTINF:-1,iLive|
-\f1 \'a5\'e6\'b3\'71\'c0\'57\'b9\'44
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv095/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a9\'5f\'a7\'ae\'b9\'71\'b5\'f8
-\f0 \
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8\
-#EXTINF:-1,iLive |now
-\f1 \'ad\'bb\'b4\'e4
-\f0 \
-http://live.italkdd.com/ts027/channel_033.m3u8\
-#EXTINF:-1,iLive |now
-\f1 \'b5\'d8\'bc\'40\'a5\'78
-\f0 \
-http://live.italkdd.com/ts027/channel_034.m3u8\
-#EXTINF:-1,iLive |TVB
-\f1 \'bb\'42\'bb\'41\'a5\'78
-\f0 \
-http://acm.gg/j.m3u8\
-#EXTINF:-1,iLive |F1
-\f1 \'aa\'bd\'bc\'bd
-\f0 \
-http://liveal.quanmin.tv/live/2142818090.flv\
-#EXTINF:-1,iLive |
-\f1 \'c0\'f4\'b2\'79\'aa\'46\'a4\'e8
-\f0  C&E\
-http://live.italkdd.com/ts027/channel_035.m3u8\
-#EXTINF:-1,iLive |
-\f1 Asia Travel
-\f0 \
-http://live.italkdd.com/ts027/channel_036.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'ba\'d1\'ae\'fc\'c2\'c5\'a4\'d1
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'a4\'45\'a4\'eb\'b3\'f2\'ab\'b0
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv048/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 \'b0\'ca\'b5\'65\'a5\'64\'b3\'71
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv105/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 FashionOne
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn19/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 Medici-arts
-\f0 \
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn16/litv-pc/index.m3u8\
-#EXTINF:-1,iLive |
-\f1 Fox Action
-\f0 \
-\pard\pardeftab720\partightenfactor0
-
-\f2\fs24 \cf3 \cb4 http://megatv.live:80/live/MegaTest/MegaTV/230.ts}
+#EXTINF:-1,iLive|韓國娛樂台 KMTV
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv016/litv-pc/index.m3u8
+#EXTINF:-1,iLive|BBC World News
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv088/litv-pc/index.m3u8
+#EXTINF:-1,iLive|CI 罪案偵查頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv027/litv-pc/index.m3u8
+#EXTINF:-1,iLive|CLASSICA 古典樂
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv059/litv-pc/index.m3u8
+#EXTINF:-1,iLive|CNBC Asia 財經台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv030/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Comedy Central 爆笑頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/index.m3u8
+#EXTINF:-1,iLive|iTV
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv036/litv-pc/index.m3u8
+#EXTINF:-1,iLive|BRAVO 菁采台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv064/litv-pc/index.m3u8
+#EXTINF:-1,iLive|BabyFirst
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn02/litv-pc/index.m3u8
+#EXTINF:-1,iLive |緯來日本HD
+http://211.72.174.95:8119/0.ts
+#EXTINF:-1,iLive |CinemaWorld
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv069/litv-pc/index.m3u8
+#EXTINF:-1,iLive |DW
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv071/litv-pc/index.m3u8
+#EXTINF:-1,iLive|E Entertainment
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Eleven sports1
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv098/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Eleven sports2
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv099/litv-pc/index.m3u8
+#EXTINF:-1,iLive|ELTV 英語學習台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn20/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Fashion one
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv015/litv-pc/index.m3u8
+#EXTINF:-1,iLive|fyi 生活頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv031/litv-pc/index.m3u8
+#EXTINF:-1,iLive|H2頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv028/litv-pc/index.m3u8
+#EXTINF:-1,iLive|HakkaTV
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv043/litv-pc/index.m3u8
+#EXTINF:-1,iLive|History 歷史頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/index.m3u8
+#EXTINF:-1,iLive|iConceits
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv037/litv-pc/index.m3u8
+#EXTINF:-1,iLive|i-Fun動漫台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv15/litv-pc/index.m3u8
+#EXTINF:-1,iLive|KLT 靖天國際台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv063/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Lifetime 娛樂頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv029/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Mezzo Live HD
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv083/litv-pc/index.m3u8
+#EXTINF:-1,iLive|MOMO親子台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv111/litv-pc/index.m3u8
+#EXTINF:-1,iLive|MTV Live HD 音樂頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Nice TV
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv054/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Nick Jr. 兒童頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv032/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Outdoor Channel
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv078/litv-pc/index.m3u8
+#EXTINF:-1,iLive|TRACE Sport Stars
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv077/litv-pc/index.m3u8
+#EXTINF:-1,iLive|TRACE Urban
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv082/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Travel Channel
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv079/litv-pc/index.m3u8
+#EXTINF:-1,iLive|VOA 美國之音
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv03/litv-pc/index.m3u8
+#EXTINF:-1,iLive|VTV4
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv108/litv-pc/index.m3u8
+#EXTINF:-1,iLive|Z Living 健康頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
+#EXTINF:-1,iLive|人間衛視
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv008/litv-pc/index.m3u8
+#EXTINF:-1,iLive|內政頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv090/litv-pc/index.m3u8
+#EXTINF:-1,iLive|天映經典頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/index.m3u8
+#EXTINF:-1,iLive|日舞電影台AMC
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8
+#EXTINF:-1,iLive|半島國際新聞台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv10/litv-pc/index.m3u8
+#EXTINF:-1,iLive|司法及法制頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv096/litv-pc/index.m3u8
+#EXTINF:-1,iLive|外交及國防頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv091/litv-pc/index.m3u8
+#EXTINF:-1,iLive|好消息
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv16/litv-pc/index.m3u8
+#EXTINF:-1,iLive|好消息2台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv17/litv-pc/index.m3u8
+#EXTINF:-1,iLive|亞洲旅遊台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn17/litv-pc/index.m3u8
+#EXTINF:-1,iLive|社會福利及衛生環境頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv097/litv-pc/index.m3u8
+#EXTINF:-1,iLive|空中英語教室HD頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv103/litv-pc/index.m3u8
+#EXTINF:-1,iLive|空中英語課堂
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv012/litv-pc/index.m3u8
+#EXTINF:-1,iLive|香蕉直擊台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv038/litv-pc/index.m3u8
+#EXTINF:-1,iLive|時尚運動X
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv014/litv-pc/index.m3u8
+#EXTINF:-1,iLive|財政頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv093/litv-pc/index.m3u8
+#EXTINF:-1,iLive|院會頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv089/litv-pc/index.m3u8
+#EXTINF:-1,iLive|國會頻道1
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv084/litv-pc/index.m3u8
+#EXTINF:-1,iLive|國會頻道2
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv085/litv-pc/index.m3u8
+#EXTINF:-1,iLive|教育及文化頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv094/litv-pc/index.m3u8
+#EXTINF:-1,iLive|華研音樂台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv11/litv-pc/index.m3u8
+#EXTINF:-1,iLive|華研娛樂台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv12/litv-pc/index.m3u8
+#EXTINF:-1,iLive|視納華仁紀實頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/index.m3u8
+#EXTINF:-1,iLive|愛爾達娛樂台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv070/litv-pc/index.m3u8
+#EXTINF:-1,iLive|新塘人亞太台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv050/litv-pc/index.m3u8
+#EXTINF:-1,iLive|經濟頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv092/litv-pc/index.m3u8
+#EXTINF:-1,iLive|達文西頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv018/litv-pc/index.m3u8
+#EXTINF:-1,iLive|鳳梨直擊台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv035/litv-pc/index.m3u8
+#EXTINF:-1,iLive|影迷數位電影台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8
+#EXTINF:-1,iLive|交通頻道
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv095/litv-pc/index.m3u8
+#EXTINF:-1,iLive |奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1,iLive |now香港
+http://live.italkdd.com/ts027/channel_033.m3u8
+#EXTINF:-1,iLive |now華劇台
+http://live.italkdd.com/ts027/channel_034.m3u8
+#EXTINF:-1,iLive |TVB翡翠台
+http://acm.gg/j.m3u8
+#EXTINF:-1,iLive |F1直播
+http://liveal.quanmin.tv/live/2142818090.flv
+#EXTINF:-1,iLive |環球東方 C&E
+http://live.italkdd.com/ts027/channel_035.m3u8
+#EXTINF:-1,iLive |Asia Travel
+http://live.italkdd.com/ts027/channel_036.m3u8
+#EXTINF:-1,iLive |碧海藍天
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-pc/index.m3u8
+#EXTINF:-1,iLive |九月圍城
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv048/litv-pc/index.m3u8
+#EXTINF:-1,iLive |動畫卡通
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv105/litv-pc/index.m3u8
+#EXTINF:-1,iLive |FashionOne
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn19/litv-pc/index.m3u8
+#EXTINF:-1,iLive |Medici-arts
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn16/litv-pc/index.m3u8
+#EXTINF:-1,iLive |Fox Action
+http://megatv.live:80/live/MegaTest/MegaTV/230.ts

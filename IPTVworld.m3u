@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1,112 UA-Ukraine
 http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:-1,1-2-3 TV
@@ -294,7 +295,7 @@ http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn13/litv-pc/index.m3u8
 #EXTINF:-1,Outdoor Channel
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv078/litv-pc/index.m3u8
-#EXTINF:-1, Parliament TV
+#EXTINF:-1,Parliament TV
 http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
 #EXTINF:-1,PGCPS
 http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
@@ -334,19 +335,19 @@ http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv076/litv-pc/index.m3u8
 #EXTINF:-1,SportCase 博斯足球台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn08/litv-pc/index.m3u8
-#EXTINF:-1, SportCase 博斯高球二台
+#EXTINF:-1,SportCase 博斯高球二台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8
-#EXTINF:-1, SportCase 博斯高球台
+#EXTINF:-1,SportCase 博斯高球台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn05/litv-pc/index.m3u8
-#EXTINF:-1, SportCase 博斯無限台
+#EXTINF:-1,SportCase 博斯無限台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn10/litv-pc/index.m3u8
-#EXTINF:-1, SportCase 博斯運動網
+#EXTINF:-1,SportCase 博斯運動網
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn07/litv-pc/index.m3u8
-#EXTINF:-1, SportCase 博斯網球台
+#EXTINF:-1,SportCase 博斯網球台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn09/litv-pc/index.m3u8
-#EXTINF:-1, SportCase 博斯魅力台
+#EXTINF:-1,SportCase 博斯魅力台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv101/litv-pc/index.m3u8
-#EXTINF:-1, SportCase 博斯電玩台
+#EXTINF:-1,SportCase 博斯電玩台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn04/litv-pc/index.m3u8
 #EXTINF:-1,Tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
@@ -418,7 +419,7 @@ http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1Fqzl
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 #EXTINF:-1,USTV News 非凡新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8
-#EXTINF:-1, USTV Business 非凡商業
+#EXTINF:-1,USTV Business 非凡商業
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv02/litv-pc/index.m3u8
 #EXTINF:-1,VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
@@ -440,3 +441,4 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:-1,Z Living 健康頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
+

@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1,112 UA-Ukraine
 http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:-1,1-2-3 TV
@@ -20,6 +21,8 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1,ABC News 
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+#EXTINF:-1,ACB TB
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
 #EXTINF:-1,AI Jazeera News 半島國際新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv10/litv-pc/index.m3u8
 #EXTINF:-1,All Sports
@@ -140,6 +143,8 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1,DW
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv071/litv-pc/index.m3u8
+#EXTINF:-1,DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1,EBC Asia Kids 東森亞洲幼幼台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/index.m3u8
 #EXTINF:-1,EBC Asia News 東森亞洲新聞台
@@ -228,6 +233,8 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv046/litv-pc/index.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv039/litv-pc/index.m3u8
 #EXTINF:-1,H2頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv028/litv-pc/index.m3u8
+#EXTINF:-1,Настоящее время HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1,HakkaTV
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv043/litv-pc/index.m3u8
 #EXTINF:-1,HeartTV
@@ -292,6 +299,8 @@ http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_s
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,MLB Network Live
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,Москва 24-Russia
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,MOMO親子台
@@ -354,6 +363,8 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn13/litv-pc/index.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv078/litv-pc/index.m3u8
 #EXTINF:-1,Parliament TV
 http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+#EXTINF:-1,Ратник ТВ HD
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1,PGCPS
 http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 #EXTINF:-1,PRO-TV News
@@ -412,6 +423,8 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 #EXTINF:-1,SAT
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1,SGDF 24 HD
+http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
 #EXTINF:-1,Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 #EXTINF:-1,Sky News Replay
@@ -454,6 +467,10 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 http://live2.awedia.com/hls/tebeo.m3u8
 #EXTINF:-1,TeleBärn 
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:-1,TeleMadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
 #EXTINF:-1,TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1,TheBlaze
@@ -474,6 +491,8 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv079/litv-pc/index.m3u8
 http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
 #EXTINF:-1,TRT Haber HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1,TRT Müzïk
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1,TRT World-UK
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,TSC
@@ -524,6 +543,8 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/index.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv067/litv-pc/index.m3u8
 #EXTINF:-1,TVO
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
+#EXTINF:-1,TV Perú HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,TVL
 http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
 #EXTINF:-1,TV Luna

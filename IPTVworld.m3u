@@ -28,7 +28,7 @@ http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-14664
 #EXTINF:-1,ADN 40
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 #EXTINF:-1,AI Jazeera News 半島國際新聞台
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv10/litv-pc/index.m3u8
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1,All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1,Alsace 20
@@ -41,7 +41,8 @@ http://cdn.prepro.cvattv.com.ar/live/live/AMCHD/SA_Live/AMCHD.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8
 #EXTINF:-1,Animaux
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1,AT5
+#EXTINF:-1,Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#EXTINF:-1,AT5
 http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/playlist.m3u8
 #EXTINF:-1,ATR Crimea
 http://stream.atr.ua/atr/live/index.m3u8
@@ -193,6 +194,8 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-pc/index.m3u8
 http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1,E! Entertainment
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/index.m3u8
+#EXTINF:-1,Eén
+https://live-w.lwc.vrtcdn.be/groupc/live/d05012c2-6a5d-49ff-a711-79b32684615b/live.isml/.m3u8
 #EXTINF:-1,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 #EXTINF:-1,Eleven sports1
@@ -378,7 +381,7 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1,NH
 http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8
 #EXTINF:-1,NHK World
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
 #EXTINF:-1,Nice TV
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv054/litv-pc/index.m3u8
 #EXTINF:-1,Nick Jr. 兒童頻道
@@ -457,10 +460,14 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1,Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,RT A
-http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,RT Documentary
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1,RT News
+https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,RT UK 
-http://secure-streams.akamaized.net/rt/index2500.m3u8
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:-1,RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
 #EXTINF:-1,RTV Drenthe
@@ -469,6 +476,8 @@ http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
 #EXTINF:-1,RTVE 24h
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,RTE News
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 #EXTINF:-1,Russia 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,RÚV
@@ -645,6 +654,8 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:-1,Z Living 健康頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
+
+
 
 
 

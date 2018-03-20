@@ -19,8 +19,10 @@ http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1,ABC News 
-http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+#EXTINF:-1,ABC News USA
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,ABC News Australia
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
 #EXTINF:-1,ACB TB
 http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
 #EXTINF:-1,ADN 40
@@ -61,8 +63,8 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn02/litv-pc/index.m3u8
 #EXTINF:-1,BBC News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1,BBC World News
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv088/litv-pc/index.m3u8
+#EXTINF:-1,BBC World News-UK
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1,Betevé
 http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 #EXTINF:-1,BFM Business
@@ -71,10 +73,14 @@ http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/mas
 http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
 #EXTINF:-1,Blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-#EXTINF:-1,BLTV人間衛視
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv008/litv-pc/index.m3u8
+#EXTINF:-1,Bloomberg Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1,BRAVO 菁采台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv064/litv-pc/index.m3u8
+#EXTINF:-1,BSChannel 耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:-1,C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
 #EXTINF:-1,C-SPAN2
@@ -102,7 +108,7 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xK
 #EXTINF:-1,CBC News
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #EXTINF:-1,CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,CCii采昌影劇台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv049/litv-pc/index.m3u8
 #EXTINF:-1,CCM Celestial Movies 天映經典頻道
@@ -129,10 +135,16 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/index.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1,CTI News 中天新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/index.m3u8
+#EXTINF:-1,CTI News 中天綜合台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
 #EXTINF:-1,CTS 華視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv041/litv-pc/index.m3u8
 #EXTINF:-1,CTS News 華視新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv052/litv-pc/index.m3u8
+#EXTINF:-1,CTV News18-Canada 
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:-1,CTV News48-Canada
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 #EXTINF:-1,CTV-Taiwan中視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/index.m3u8
 #EXTINF:-1,CTV News-Taiwan中視新聞
@@ -143,9 +155,9 @@ http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1,CSTV 中華財經台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv060/litv-pc/index.m3u8
-#EXTINF:-1,CSTV News 寰宇新聞台
+#EXTINF:-1,CSTV News 寰宇新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/index.m3u8
-#EXTINF:-1,CSTV News 2 寰宇新聞二台
+#EXTINF:-1,CSTV News 2 寰宇新聞2
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/index.m3u8
 #EXTINF:-1,Da Vinci 達文西頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv018/litv-pc/index.m3u8
@@ -157,8 +169,14 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1,DW
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv071/litv-pc/index.m3u8
+#EXTINF:-1,DW 2
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,DW Asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1,DW Latino
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,EBC Asia Kids 東森亞洲
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-pc/index.m3u8
 #EXTINF:-1,EBC Asia Kids 東森亞洲幼幼台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/index.m3u8
 #EXTINF:-1,EBC Asia News 東森亞洲新聞台
@@ -173,7 +191,7 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv14/litv-pc/index.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-pc/index.m3u8
 #EXTINF:-1,ECTV Escambia TV
 http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,E Entertainment
+#EXTINF:-1,E! Entertainment
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/index.m3u8
 #EXTINF:-1,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
@@ -192,13 +210,15 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8
 #EXTINF:-1,FashionOne
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn19/litv-pc/index.m3u8
 #EXTINF:-1,Fantastic TV 奇妙電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,FORO TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,FOX Business
 http://184.173.179.163:1935/livenewsus/livenewsus/chunklist.m3u8
 #EXTINF:-1,France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,France 24 youtube
+https://youtu.be/J78SdCzzumA
 #EXTINF:-1,Free Speech
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1,FTV Drama 民視影劇台
@@ -257,6 +277,10 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv043/litv-pc/index.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1,History 歷史頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/index.m3u8
+#EXTINF:-1,History2 歷史頻道2
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv028/litv-pc/index.m3u8
+#EXTINF:-1,HKS 香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:-1,iConcerts
@@ -271,8 +295,14 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:-1,iTV Choice
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv036/litv-pc/index.m3u8
+#EXTINF:-1,iTV Drama 綜合電視台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv048/litv-pc/index.m3u8
+#EXTINF:-1,iTV Movie 綜合電影台 
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-mobile/index.m3u8
 #EXTINF:-1,JewelleryMakter
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1,JKWSHK 健康衛視
+http://live.jkwshk.tv/AppName/StreamName.m3u8
 #EXTINF:-1,KANAL D HD
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,Klipkar TV
@@ -305,7 +335,7 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn11/litv-pc/index.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,Mezzo Live HD
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv083/litv-pc/index.m3u8
-#EXTINF:-1,Medici-arts
+#EXTINF:-1,Medici-arts 梅蒂斯藝術
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn16/litv-pc/index.m3u8
 #EXTINF:-1,Mega 7
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
@@ -329,6 +359,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?sta
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1465215914083
 #EXTINF:-1,MSNBC HD
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1,MSTV 澳門衛視
+http://live.mastvnet.com/iVx460D/live.m3u8
 #EXTINF:-1,MTV Live HD 音樂頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/index.m3u8
 #EXTINF:-1,Music Channel-Romania
@@ -341,6 +373,8 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs31.stream/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,NEOX 7
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1,NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1,NH
@@ -459,21 +493,21 @@ http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv076/litv-pc/index.m3u8
 #EXTINF:-1,Spirit TV Music
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
-#EXTINF:-1,SportCase 博斯足球台
+#EXTINF:-1,SportCase 博斯足球
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn08/litv-pc/index.m3u8
-#EXTINF:-1,SportCase 博斯高球二台
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8
-#EXTINF:-1,SportCase 博斯高球台
+#EXTINF:-1,SportCase 博斯高球
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn05/litv-pc/index.m3u8
-#EXTINF:-1,SportCase 博斯無限台
+#EXTINF:-1,SportCase 博斯高球2
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8
+#EXTINF:-1,SportCase 博斯無限
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn10/litv-pc/index.m3u8
-#EXTINF:-1,SportCase 博斯運動網
+#EXTINF:-1,SportCase 博斯運動
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn07/litv-pc/index.m3u8
-#EXTINF:-1,SportCase 博斯網球台
+#EXTINF:-1,SportCase 博斯網球
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn09/litv-pc/index.m3u8
-#EXTINF:-1,SportCase 博斯魅力台
+#EXTINF:-1,SportCase 博斯魅力
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv101/litv-pc/index.m3u8
-#EXTINF:-1,SportCase 博斯電玩台
+#EXTINF:-1,SportCase 博斯電玩
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn04/litv-pc/index.m3u8
 #EXTINF:-1,Tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
@@ -501,9 +535,9 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 #EXTINF:-1,Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1,TRACE Sport Stars
+#EXTINF:-1,TRACE Sport Stars 運動
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv077/litv-pc/index.m3u8
-#EXTINF:-1,TRACE Urban
+#EXTINF:-1,TRACE Urban 音樂台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv082/litv-pc/index.m3u8
 #EXTINF:-1,Travel Channel
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv079/litv-pc/index.m3u8
@@ -523,6 +557,8 @@ http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1,TTV 台視
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/index.m3u8
+#EXTINF:-1,TTV 台視經典台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv080/litv-pc/index.m3u8
 #EXTINF:-1,TTV Finance 台視財經
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv056/litv-pc/index.m3u8
 #EXTINF:-1,TTV News 台視新聞台
@@ -551,12 +587,12 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1,TV5 Monde Info
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
-#EXTINF:-1,TVB翡翠台
+#EXTINF:-1,TVB 翡翠台
 http://acm.gg/j.m3u8
+#EXTINF:-1,TVB 娛樂新聞台
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:-1,TVBS
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv073/litv-pc/index.m3u8
-#EXTINF:-1,TVBS Classic 經典台
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv080/litv-pc/index.m3u8
 #EXTINF:-1,TVBS News 新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/index.m3u8
 #EXTINF:-1,TVBS 精采台
@@ -583,6 +619,10 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8
 #EXTINF:-1,USTV Business 非凡商業
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv02/litv-pc/index.m3u8
+#EXTINF:-1,Various Movies 綜合電影
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv100/litv-pc/index.m3u8
+#EXTINF:-1,Various Movies2 綜合電影2
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv102/litv-pc/index.m3u8
 #EXTINF:-1,Västmanlands TV 
 http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w404315212.m3u8
 #EXTINF:-1,Videolina
@@ -607,6 +647,7 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:-1,Z Living 健康頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
+
 
 
 

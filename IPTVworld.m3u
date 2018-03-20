@@ -6,11 +6,11 @@ http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:-1,1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1,2UE
-http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/master.m3u8
 #EXTINF:-1,3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
 #EXTINF:-1,7 Murcia HD
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,8 TV
@@ -164,10 +164,12 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/index.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv018/litv-pc/index.m3u8
 #EXTINF:-1,Destination AMERICA HD
 https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
-#EXTINF:-1,Destination AMERICA 
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 #EXTINF:-1,DCN District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,Destination AMERICA 
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Discovery Theater
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/index.m3u8
 #EXTINF:-1,DW
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv071/litv-pc/index.m3u8
 #EXTINF:-1,DW 2
@@ -654,4 +656,5 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:-1,Z Living 健康頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
+
 

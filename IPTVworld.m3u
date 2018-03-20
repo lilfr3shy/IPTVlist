@@ -23,10 +23,12 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
 #EXTINF:-1,ACB TB
 http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 #EXTINF:-1,AI Jazeera News 半島國際新聞台
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv10/litv-pc/index.m3u8
 #EXTINF:-1,All Sports
-ttp://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1,Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1,AMC
@@ -39,6 +41,8 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1,AT5
 http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/playlist.m3u8
+#EXTINF:-1,ATR Crimea
+http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,ARISE News
@@ -51,6 +55,8 @@ http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1,ATV
 http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
+#EXTINF:-1,Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1,BabyFirst
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn02/litv-pc/index.m3u8
 #EXTINF:-1,BBC News
@@ -79,12 +85,18 @@ http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 http://live.italkdd.com/ts027/channel_035.m3u8
 #EXTINF:-1,Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1,Canal One
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1,Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:-1,CapitalTV-UK
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1,Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1,Castilla-La Mancha TV
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
 #EXTINF:-1,CBC News
@@ -109,6 +121,8 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv030/litv-pc/index.m3u8
 #EXTINF:-1,CNEX 視納華仁紀實頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/index.m3u8
+#EXTINF:-1,CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1,Comedy Central 爆笑頻道
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/index.m3u8
 #EXTINF:-1,Cosmovision
@@ -179,6 +193,8 @@ http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn19/litv-pc/index.m3u8
 #EXTINF:-1,Fantastic TV 奇妙電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1,FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,FOX Business
 http://184.173.179.163:1935/livenewsus/livenewsus/chunklist.m3u8
 #EXTINF:-1,France 24
@@ -353,6 +369,8 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv050/litv-pc/index.m3u8
 #EXTINF:-1,NTV-Germany
 http://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/index_1500_av-p.m3u8
+#EXTINF:-1,OCHO TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 #EXTINF:-1,Omroep Flevoland
 http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4/playlist.m3u8
 #EXTINF:-1,Omroep West
@@ -399,6 +417,8 @@ http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
 #EXTINF:-1,RBC
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?region=undefined
+#EXTINF:-1,RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
 #EXTINF:-1,Real Madrid HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1,Real Madrid HD English
@@ -557,6 +577,8 @@ http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
 #EXTINF:-1,TVW
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:-1,USTV News 非凡新聞
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8
 #EXTINF:-1,USTV Business 非凡商業

@@ -217,8 +217,6 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 http://184.173.179.163:1935/livenewsus/livenewsus/chunklist.m3u8
 #EXTINF:-1,France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,France 24 youtube
-https://youtu.be/J78SdCzzumA
 #EXTINF:-1,Free Speech
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1,FTV Drama 民視影劇台

@@ -5,6 +5,10 @@
 </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yuphdtv.com/play/?id=AXN_HD/AXN_HD</link>
 <item>
+<title>AXN HD
+</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv1.ruhutv.net/ApnJd9VtMQVaHAGvFOQPMZY/AXN_HD/AXN_HD_1200.m3u8</link>
+  <item>
 <title>USA: CNBC HD
 </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/live/sumsum/sumsum/9358.ts</link></link>
